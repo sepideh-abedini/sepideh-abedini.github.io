@@ -36,8 +36,12 @@ ________________________________________________________________________________
 - **B.S. in Computer Science, [Sharif University of Technology](https://en.sharif.ir/sharif-university-of-technology#:~:text=Sharif%20University%20of%20Technology%20(SUT,offer%20B.S.%2C%20M.S.%20and%20Ph.))**
 
 #### **<span style="color:#1f618d">Experiences</span>**
-- ###### **Research Assistant**
-  - Developing unified benchmark to evaluate NL-to-SQL models
+- ###### **Researcher Intern - [Vector Institute](https://vectorinstitute.ai/)**
+  - Designing a scalable framework for detecting and redacting PII in unstructured textual data 
+<br>
+
+- ###### **Research Assistant - University of Waterloo**
+  - Developing an in-depth benchmark to evaluate and identify errors in NL-to-SQL models
 <br>
 
 - ###### **Teaching Assistant**
@@ -48,7 +52,7 @@ ________________________________________________________________________________
   - Basic Programming: C++ , Sharif University of Technology
   - Programming Java , Sharif University of Technology
 
-- ###### **Machine Learning Engineer Intern**
+- ###### **Machine Learning Engineer Intern - JobVision**
   - Developed an AI recommender system for job-seekers
   - Implementing content-based and collaborative filtering algorithms
 
