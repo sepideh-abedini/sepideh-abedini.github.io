@@ -7,8 +7,7 @@ permalink: /
 
 profile:
   align: right
-#  image: sepideh4.jpg
-  image: prof_pic.jpg
+  image: sepideh4.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><span style="color:#1f618d">Office:</span> DC 3301</p>
