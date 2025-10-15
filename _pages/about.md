@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 My name is Sepideh Abedini. 
-I am a master's student at the University of Waterloo, under the supervision of **[Prof. M. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/)** at the **[Data Systems Group](https://uwaterloo.ca/data-systems-group/)**. Currently an Associate Applied ML Engineer at the [Vector Institute](https://vectorinstitute.ai/), developing privacy-aware text-to-SQL and PII detection pipelines using abstraction techniques, LLMs, and synthetic
+I am a master's student at the University of Waterloo, under the supervision of **[Prof. M. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/)** at the **[Data Systems Group](https://uwaterloo.ca/data-systems-group/)**. Currently an Associate Applied ML Engineer at the **[Vector Institute](https://vectorinstitute.ai/)**, developing privacy-aware text-to-SQL and PII detection pipelines using abstraction techniques, LLMs, and synthetic
 data.
 
 My research focuses on the application of LLMs in Data Management Systems and Data Privacy.
@@ -40,7 +40,7 @@ ________________________________________________________________________________
 - ###### **Associate Applied ML Specialist - [Vector Institute](https://vectorinstitute.ai/)**
   - Developing a **context-aware PII detection pipeline** combining NER, rule-based regex filters, and SLMs to identify and selectively mask sensitive spans while preserving utility in downstream QA and RAG systems.
   - Creating a synthetic dataset for PII detection with context-driven relevance labels that indicate whether each PII is essential or redundant for downstream tasks.
-  - Implemented [MaskSQL](https://www.arxiv.org/abs/2509.23459), a **privacy preserving Text-to-SQL pipeline** that abstracts sensitive schema and value tokens before LLM inference to protect user data under customizable privacy policies (accepted at NeurIPS 2025 Regulatable MLWorkshop)
+  - Implemented **[MaskSQL](https://www.arxiv.org/abs/2509.23459)**, a **privacy preserving Text-to-SQL pipeline** that abstracts sensitive schema and value tokens before LLM inference to protect user data under customizable privacy policies (accepted at NeurIPS 2025 Regulatable MLWorkshop)
 <br>
 
 - ###### **Researcher Intern - [Vector Institute](https://vectorinstitute.ai/)**
