@@ -7,7 +7,7 @@ permalink: /
 
 profile:
   align: right
-  image: sepideh4.jpg
+  image: new.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><span style="color:#1f618d">Office:</span> DC 3301</p>
@@ -36,6 +36,10 @@ ________________________________________________________________________________
 - **B.S. in Computer Science, [Sharif University of Technology](https://en.sharif.ir/sharif-university-of-technology#:~:text=Sharif%20University%20of%20Technology%20(SUT,offer%20B.S.%2C%20M.S.%20and%20Ph.))**
 
 #### **<span style="color:#1f618d">Experiences</span>**
+- ###### **Associate Applied ML Specialist - [Vector Institute](https://vectorinstitute.ai/)**
+  - Implemented MaskSQL, a privacy preserving Text-to-SQL pipeline that abstracts sensitive schema and value tokens before LLM inference to protect user data under customizable privacy policies (accepted at NeurIPS 2025 Regulatable MLWorkshop)
+<br>
+
 - ###### **Researcher Intern - [Vector Institute](https://vectorinstitute.ai/)**
   - Designing a scalable framework for detecting and redacting PII in unstructured textual data 
 <br>
