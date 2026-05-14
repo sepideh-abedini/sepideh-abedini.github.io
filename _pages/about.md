@@ -7,7 +7,7 @@ permalink: /
 
 profile:
   align: right
-  image: new.jpg
+  image: new1.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><span style="color:#1f618d">Office:</span> DC 3301</p>
@@ -19,12 +19,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 My name is Sepideh Abedini. 
-I am a master's student at the University of Waterloo, under the supervision of **[Prof. M. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/)** at the **[Data Systems Group](https://uwaterloo.ca/data-systems-group/)**. Currently an Associate Applied ML Engineer at the **[Vector Institute](https://vectorinstitute.ai/)**, developing privacy-aware text-to-SQL and PII detection pipelines using abstraction techniques, LLMs, and synthetic
-data.
+I am an Applied ML Specialist at the **[Vector Institute](https://vectorinstitute.ai/)** and recently completed my MMath in Computer Science at the **[University of Waterloo](https://cs.uwaterloo.ca/)**, where I was supervised by **[Prof. M. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/)** in the **[Data Systems Group](https://uwaterloo.ca/data-systems-group/)**.
 
-My research focuses on the application of LLMs in Data Management Systems and Data Privacy.
+My research lies at the intersection of Large Language Models, Data Management Systems, and Privacy-Preserving Machine Learning. I focus on developing reliable and privacy-aware LLM systems for structured reasoning and enterprise applications, with particular emphasis on Text-to-SQL, context-aware PII detection, benchmarking, and privacy-enhancing technologies for LLM pipelines.
 
-In my free time, I enjoy socializing and engaging in conversations with people to learn new perspectives. I love playing badminton, traveling, watching movies, and reading novels. 
+During my time at Vector Institute, I led projects on privacy-preserving Text-to-SQL and context-aware PII detection for downstream QA systems. My recent works include **[MaskSQL](https://arxiv.org/abs/2509.23459)**, a privacy-preserving Text-to-SQL framework accepted at the NeurIPS 2025 Regulatable ML Workshop, and **[CAPID](https://aclanthology.org/2026.eacl-srw.23/)**, a context-aware PII detection framework accepted at EACL 2026 SRW. I also developed **[SQLyzr](https://arxiv.org/abs/2604.21214)**, a comprehensive benchmark and evaluation framework for fine-grained analysis of Text-to-SQL systems.
+
+In my free time, I enjoy socializing and engaging in conversations with people to learn new perspectives. 
 <!-- <span style="color:#b03a2e">some *blue* text</span>. -->
 
 <!-- Here are some photos from the recent conferences I attended. -->
@@ -32,41 +33,36 @@ In my free time, I enjoy socializing and engaging in conversations with people t
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 <br>
 <br>
-#### **<span style="color:#1f618d">Education</span>**
-- **MMath in Computer Science, [University of Waterloo](https://cs.uwaterloo.ca/)**
-- **B.S. in Computer Science, [Sharif University of Technology](https://en.sharif.ir/sharif-university-of-technology#:~:text=Sharif%20University%20of%20Technology%20(SUT,offer%20B.S.%2C%20M.S.%20and%20Ph.))**
 
 #### **<span style="color:#1f618d">Experiences</span>**
-- ###### **Associate Applied ML Specialist - [Vector Institute](https://vectorinstitute.ai/)**
-  - Developing a **context-aware PII detection pipeline** combining NER, rule-based regex filters, and SLMs to identify and selectively mask sensitive spans while preserving utility in downstream QA and RAG systems.
-  - Creating a synthetic dataset for PII detection with context-driven relevance labels that indicate whether each PII is essential or redundant for downstream tasks.
-  - Implemented **[MaskSQL](https://www.arxiv.org/abs/2509.23459)**, a **privacy preserving Text-to-SQL pipeline** that abstracts sensitive schema and value tokens before LLM inference to protect user data under customizable privacy policies (accepted at NeurIPS 2025 Regulatable MLWorkshop)
-<br>
+- ###### **Applied ML Specialist / ML Research Student - [Vector Institute](https://vectorinstitute.ai/)**
+  - Proposing and leading research on privacy-aware LLM systems, with a focus on privacy-preserving Text-to-SQL and context-aware PII detection.
+  - Developed **MaskSQL**, a framework that abstracts sensitive schema and value tokens before LLM inference under customizable privacy policies.
+  - Collaborated on designing a context-aware PII detection pipeline combining NER, rule-based filtering, and SLMs to selectively mask sensitive spans while preserving downstream utility.
+  - Collaborated on building synthetic data generation pipeline for context-aware PII benchmarking, resulting in the creation of more than 2K examples for **CAPID**.
+  <br>
 
-- ###### **Researcher Intern - [Vector Institute](https://vectorinstitute.ai/)**
-  - Designing a scalable framework for detecting and redacting PII in unstructured textual data 
-<br>
+- ###### **Research Assistant - [University of Waterloo](https://cs.uwaterloo.ca/)**
+  - Developed **SQLyzr**, a comprehensive benchmark and evaluation framework for fine-grained analysis of Text-to-SQL systems.
+  - Designed taxonomy-driven evaluation methodologies for analyzing correctness, complexity, efficiency, and robustness of NL-to-SQL models.
+  - Conducted large-scale benchmarking and workload alignment studies on state-of-the-art Text-to-SQL systems.
+  <br>
 
-- ###### **Research Assistant - University of Waterloo**
-  - Developing an in-depth benchmark to evaluate and identify errors in NL-to-SQL models
-<br>
+- ###### **Teaching Assistant  - [University of Waterloo](https://cs.uwaterloo.ca/) & [Sharif University of Technology](https://en.wikipedia.org/wiki/Sharif_University_of_Technology)**
+  - Teaching Assistant for several undergraduate computer science courses covering functional programming, systems programming, algorithms, and introductory software development.
 
-- ###### **Teaching Assistant**
-  - Designing Functional Programs , University of Waterloo
-  - Computers and Computer Systems , University of Waterloo
-  - Computer Programming 2 , University of Waterloo
-  - Computer Programming 1 , University of Waterloo
-  - Basic Programming: C++ , Sharif University of Technology
-  - Programming Java , Sharif University of Technology
-
-- ###### **Machine Learning Engineer Intern - JobVision**
+- ###### **Machine Learning Engineer Intern - [JobVision](https://rocketreach.co/job-vision-jb-wyjn-profile_b4001a27fc03ab35)**
   - Developed an AI recommender system for job-seekers
   - Implementing content-based and collaborative filtering algorithms
 
+#### **<span style="color:#1f618d">Education</span>**
+- **MMath in Computer Science, [University of Waterloo](https://cs.uwaterloo.ca/)**
+  - Thesis: ***[SQLyzr](https://uwspace.uwaterloo.ca/items/c51c6b05-e892-40ac-a885-7f4086de3a24)**: A Comprehensive Benchmark and Framework for Evaluating Text-to-SQL Systems*
+- **B.S. in Computer Science, [Sharif University of Technology](https://en.sharif.ir/sharif-university-of-technology#:~:text=Sharif%20University%20of%20Technology%20(SUT,offer%20B.S.%2C%20M.S.%20and%20Ph.))**
 
 #### **<span style="color:#1f618d">Honors & Awards</span>**
-- **Awarded the International Master’s Award of Excellence (IMAE)**
-- **Awarded Full Scholarship based on National Universities Entrance Exam**
+- **Awarded the International Master’s Award of Excellence (IMAE), University of Waterloo**
+- **Awarded Full Scholarship based on National Universities Entrance Exam, Sharif University of Technology**
 
 
 [//]: # (Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;.)
